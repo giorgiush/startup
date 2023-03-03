@@ -2,8 +2,8 @@ body {font-family: "Montserrat";}
 
 
 h1 {  
-    font-family: 'Montserrat-Black';  
-    font-size: 4.5rem;  
+    font-family: 'Montserrat-Bold';  
+    font-size: 8rem;  
     line-height: 1.5;  
     font-weight: 900;
     }
@@ -42,7 +42,7 @@ h2 {
 .title-img {width: 60%; transform: rotate(25deg);}
 @media (max-width: 1028px) {
     #title {text-align: center;}
-    .title-img {position: static; transform: rotate(0);}
+    .title-img {transform: rotate(0);}
 }
 
 
@@ -55,7 +55,7 @@ h2 {
 
 
 #testimonials {text-align: center; background-color: rgb(136, 5, 5); color: white;}
-.testimonial-img {border-radius: 100%; width: 10%; margin: 1rem;}
+.testimonial-img {border-radius: 100%; width: 20%; margin: 1rem;}
 .carousel-item {padding: 7% 15%; }
 
 
